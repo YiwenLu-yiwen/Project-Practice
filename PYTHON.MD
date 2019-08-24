@@ -9,3 +9,9 @@
     json.loads(r.text) # return json format
     # print(r.status_code) # print code 200 works good; 404 fake request; 400 something wrong
  ```
+
+Get each row and index:
+```python
+    for index, row in df.iterrows():
+        ### get each row and index 
+```
