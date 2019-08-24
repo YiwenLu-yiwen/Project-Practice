@@ -15,3 +15,10 @@ Get each row and index:
     for index, row in df.iterrows():
         ### get each row and index 
 ```
+
+Replace substring
+```python
+string = 'Sa,Lo,Cl/Lo'
+string.replace('/',',').split(',)
+# result = ['Sa', 'Lo', 'Cl', 'Lo']
+```
