@@ -1,0 +1,243 @@
+Type,Genus,Tube colour,Botanical name,Common name,Height (m),Spread (m),Rain (mm),Soil texture,Soil pH,Frost,Flower colour,Flower (time)
+Trees and Shrubs,Acacia ,B,acinacea ,round-leaved wattle,1-2,1-2,300,"Sa,Lo,Cl",ANC,R,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,argyrophylla,golden-grey mulga,1-5,2-6,350,"Sa,Lo,Li",ANC,R,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,brachybotrya,grey mulga,2-4,1.5-4,250,"Sa,Lo,Cl,Li",ANC,R,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,calamifolia,wallowa ,2-5,2-4,200,"Sa,Lo,Cl,Li",ANC,M,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,farinosa,mealy wattle,1-2,2-4,350,"Sa, Lo, Li",ANC,M,Y,"W, Sp"
+Trees and Shrubs,Acacia ,B,floribunda,gossamer wattle,4-7,4-6,550,"Lo,Cl",AN/C,M,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,glandulicarpa,hairy-pod wattle,1-3,1-3,350,"Sa,Lo",ANC,R,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,gunnii,ploughshare wattle,0.2-0.8,1-2,500,"Sa,Lo,Cl",AN,R,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,hakeoides,hakea wattle,2.5-4,3-5,250,"Sa,Lo",ANC,R,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,howittii,sticky wattle,4-8,3-6,450,"Lo,Cl",ANC,R,Y,Sp
+Trees and Shrubs,Acacia ,B,ligulata,umbrella wattle,2-4,4-6,150,"Sa,Lo,Cl Li",ANC,R,Y,Sp
+Trees and Shrubs,Acacia ,B,lineata,streaked wattle,0.5-3,1-3,500,"Sa,Lo,Cl",ANC,M,Y,Sp
+Trees and Shrubs,Acacia ,B,longifolia var. sophorae,coastal wattle,2-5,4-8,450,"Sa,Lo",ANC,M,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,melanoxylon SA forms,blackwood,7-20,4-10,500,"Lo,Cl",AN/C,R,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,microcarpa,manna wattle,1-3,2-4,300,"Sa,Cl,Lo,Li",ANC,R,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,montana,mallee wattle,2-4,2-5,325,"Sa,Cl,Lo,Li",ANC,R,Y,Sp
+Trees and Shrubs,Acacia ,B,myrtifolia,myrtle wattle,1-2,1-2,500,"Lo,Cl",AN/C,M,Y,Sp
+Trees and Shrubs,Acacia ,B,notabilis,notable wattle,3-6,3-4,250,"Lo,Li,Cl",ANC,R,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,paradoxa ,kangaroo thorn,2-4,3-4,300,"Sa,Lo,Cl,Li",ANC,M,Y,Sp
+Trees and Shrubs,Acacia ,B,pendula,weeping myall,6-10,6-8,250,"Lo,Cl",ANC,M,Y,"A,W,Sp"
+Trees and Shrubs,Acacia ,B,pravissima,Oven’s wattle,4-8,4-8,500,"Sa,Lo,Cl",AN/C,M,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,pycnantha,golden wattle,4-6,2-6,450,"Sa,Lo,Cl",ANC,M,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,retinodes ,wirilda,5-8,3-7,500,"Lo,Cl",ANC,M,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,rigens,nealie,2-4,2-4,200,"Sa,Lo,Cl,Li",ANC,R,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,rupicola,rock wattle,1-2.5,1-2.5,350,"Sa,Lo,Cl,Li",ANC,R,Y,"Sp,S"
+Trees and Shrubs,Acacia ,B,salicina,Broughton willow ,4-10,3-5,300,"Lo,Cl",ANC,R,Y,"W,Sp"
+Trees and Shrubs,Acacia ,B,sclerophylla var. sclerophylla,hard-leaf wattle,1-2,2-4,250,"Sa,Lo,Cl,Li",ANC,R,Y,Sp
+Trees and Shrubs,Acacia ,B,verniciflua,varnish wattle,3-5,3-5,450,"Sa,Lo,Cl",AN/C,M,Y,"W,Sp,S"
+Trees and Shrubs,Acacia ,B,verticillata ssp ovoidea,prickly moses,2-4,1-3,600,"Lo,Cl",AN/C,M,Y,"W,Sp,S"
+Trees and Shrubs,Acacia ,B,wilhelmiana,dwarf nealie,1-3,2-3,250,"Cl,Lo,Li",ANC,R,Y,"W,Sp"
+Trees and Shrubs,Adriana,B,quadripartita syn.klotzschii,coastal bitter bush,1-2,1-3,350,"Sa,Lo",ANC,M,R/Br,"Sp,S"
+Trees and Shrubs,Allocasuarina,B,luehmannii,bull oak,8-20,5-8,550,"Sa,Lo,Cl",ANC,R,I,Sp
+Trees and Shrubs,Allocasuarina,B,muelleriana ssp muelleriana,slaty sheoak,1-3,2-3,400,"Sa,Lo,Cl",ANC,M,I,"Sp,S"
+Trees and Shrubs,Allocasuarina,B,pusilla,dwarf sheoak,1-2,1-2,350,"Sa,Lo,Cl,Li",ANC,R,I,"A,W,Sp"
+Trees and Shrubs,Allocasuarina,B,verticillata Coastal form,drooping sheoak,5-8,4-6,400,"Sa,Lo,Cl,Li",ANC,R,"R,Br","A,W"
+Trees and Shrubs,Allocasuarina,B,verticillata Dryland form  ,drooping sheoak,5-8,4-6,350,"Sa,Lo,Cl,Li",ANC,R,"R,Br","A,W"
+Trees and Shrubs,Allocasuarina,B,verticillata Hills form,drooping sheoak,5-8,4-6,500,"Sa,Lo,Cl,Li",ANC,M,"R,Br","A,W"
+Trees and Shrubs,Atriplex,B,cinerea,coastal saltbush,1,1-2,350,"Sa,Li",ANC,M,I,F
+Trees and Shrubs,Atriplex,B,paludosa,marsh saltbush,0.5-1,0.5-1,300,"Sa,Lo,Cl",ANC,R,I,F
+Trees and Shrubs,Atriplex,B,rhagodioides,river saltbush,0.5-2,1-2,250,"Sa,Lo",ANC,R,I,F
+Trees and Shrubs,Atriplex,B,vesicaria,bladder saltbush,0.5-1,1-2,250,"Sa,Lo,Cl",ANC,R,I,F
+Trees and Shrubs,Babingtonia syn Baeckea,B,behrii,silver broombush,2-3,1-2,350,"Sa,Lo,Li",ANC,R,W,"Sp,S"
+Trees and Shrubs,Banksia,G,integrifolia,coast banksia,8-15,5-8,450,"Sa,Lo,Cl",ANC,M,Y,F
+Trees and Shrubs,Banksia,B,marginata,silver banksia,2-8,1-5,500,"Sa,Lo,Cl",ANC,R,Y,"Sp,S,A"
+Trees and Shrubs,Banksia,B,ornata,desert banksia,1-2,1-2,400,"Sa, Lo",AN/C,M,Y/B,"A, W"
+Trees and Shrubs,Banksia,G,serrata,old man banksia,2-10,2-7,500,"Sa,Lo",AN,M,Y,Sp
+Trees and Shrubs,Banksia,G,spinulosa,hairpin banksia,2-4,2-5,600,"Sa, Lo, Cl",AN,R,Y,"A, W"
+Trees and Shrubs,Bauera,G,rubioides ,wiry bauera,0.5-2,1-3,650,"Lo, Cl",AN,M,"W, Pk",F
+Trees and Shrubs,Boronia ,G,coerulescens ssp coerulescens,blue boronia,0.5,0.5,400,"Sa,Lo",ANC,R,"B,W","A,W,Sp"
+Trees and Shrubs,Boronia ,G,filifolia,slender boronia,0.5-1,0.5–1,450,"Sa, Lo, Cl",ANC,M,Pk,"Sp, S"
+Trees and Shrubs,Brachychiton,B,populneus,kurrajong,8-15,6-10,400,"Lo, Cl, Li",ANC,R,Cr/Pk,"Sp, S"
+Trees and Shrubs,Callistemon,B,brachyandrus,prickly bottlebrush,2-3,1-3.5,450,"Sa,Lo,Cl,Li",ANC,R,R,"S, A"
+Trees and Shrubs,Callistemon,B,citrinus,crimson bottlebrush,2-5,2-5,450,"Sa, Lo, Cl",ANC,M,R,"Sp, S"
+Trees and Shrubs,Callistemon,B,pallidus,lemon bottlebrush,2-5,2-4,550,"Sa, Lo, Cl",ANC,R,Y,"Sp, S"
+Trees and Shrubs,Callistemon,B,sieberi,river bottlebrush,2-4,2-3,500,"Lo, Cl",ANC,M,Cr,Sp
+Trees and Shrubs,Casuarina,B,obesa,swamp oak,10-15,5-10,350,"Sa,Lo, Cl, Li",ANC,R,I,"W, Sp"
+Trees and Shrubs,Casuarina,B,pauper syn C.cristata,"black oak, belah",6-15,4-8,200,"Lo, Cl, Li",ANC,R,R,S
+Trees and Shrubs,Cheiranthera,G,alternifolia ,finger flower,0.3,0.3,450,"Sa, Lo, Cl",AN,M,B,Sp
+Trees and Shrubs,Correa,G,alba var. alba,white correa,2-2.5,2-2.5,400,"Sa,Lo,Cl,Li",ANC,M,W,"S, A"
+Trees and Shrubs,Correa,G,backhouseana ,velvet correa,1-2,2-3,500,"Sa,Lo,Cl",ANC,M,"G,Cr","A,W,Sp"
+Trees and Shrubs,Correa,G,glabra var. turnbullii,rock correa,1-1.5,1-1.5,400,"Sa,Lo,Cl,Li",ANC,R,G/R,"A,W"
+Trees and Shrubs,Corymbia  formerly Eucalyptus,B,maculata ,spotted gum,10-40,8-20,500,"Lo, Cl",ANC,S/M,Cr,"S,W,Sp"
+Trees and Shrubs,Crowea ,G,exalata,wax flower,0.5-1,0.5-1.5,600,"Sa, Lo, Cl",AN,M,Pk,"S, A"
+Trees and Shrubs,Daviesia ,B,leptophylla,blunt leaf bitter-pea,1-2.5,1-2,500,"Sa, Lo, Cl",AN,M,Y/R,Sp
+Trees and Shrubs,Dillwynia,G,hispida,red parrot-pea,0.2-0.6,0.3-1,450,"Sa, Lo, Cl",ANC,M,O/R,Sp
+Trees and Shrubs,Dodonaea,B,bursariifolia,low hop bush,0.5-1.5,0.7-1.5,400,"Sa,Lo,Li",ANC,R,I,"Sp,S"
+Trees and Shrubs,Dodonaea,B,stenozyga,desert hop bush,0.5-1,1-3,300,"Sa, Li, Cl,Li",ANC,R,I,"Sp,S"
+Trees and Shrubs,Eremophila,G,crassifolia,trim emu bush,1,1,350,"Sa,Lo,Cl,Li",ANC,R,B,"Sp, S"
+Trees and Shrubs,Eremophila,G,divaricata ssp divaricata,spreading emu bush,1-2,1-3,350,"Sa,Lo,Cl,Li",ANC,M,Pu,"Sp, S"
+Trees and Shrubs,Eremophila,G,oppositifolia,twin-leaf emu bush,1.5-4,1-3,300,"Sa,Lo,Cl,Li",ANC,R,"Cr, Pk","W,Sp,S"
+Trees and Shrubs,Eremophila,G,polyclada,flowering lignum,2-4,2-4,400,"Sa,Lo,Cl,Li",ANC,M,W,"Sp, S"
+Trees and Shrubs,Eremophila,G,scoparia,broom emu bush,1-3,1-1.5,250,"Sa,Lo,Cl,Li",ANC,R,Pu,"W,Sp"
+Trees and Shrubs,Eucalyptus ,B,albens,white box,15-25,10-15,450,"Sa,Lo,Cl",ANC,R,W,"S,W"
+Trees and Shrubs,Eucalyptus ,B,arenacea ,sand stringybark,4-8,4-8,450,"Sa,Lo",ANC,R,W,"S,A"
+Trees and Shrubs,Eucalyptus ,B,baxteri,brown stringybark,6-25,6-15,650,"Sa,Lo,Cl",AN,R,W,"S,A"
+Trees and Shrubs,Eucalyptus ,B,botryoides,bangalay,10-30,10-15,600,"Sa,Lo, Cl",ANC,S/M,W,"S, A"
+Trees and Shrubs,Eucalyptus ,B,calycogona,square-fruited mallee,3-10,3-8,300,"Sa, Lo, Li",ANC,R,"Cr, Pk","Sp, S"
+Trees and Shrubs,Eucalyptus ,B,cinerea,argyle apple,7-15,5-8,600,"Lo, Cl",AN/C,R,W,"S, A"
+Trees and Shrubs,Eucalyptus ,B,crenulata,Victorian silver gum,4-12,3-10,600,"Sa, Lo, Cl",AN/C,R,W,S
+Trees and Shrubs,Eucalyptus ,B,cyanophylla,blue-leaved mallee,2-6,3-8,250,"Sa,Lo,Li",ANC,M,Cr,Sp
+Trees and Shrubs,Eucalyptus ,B,dalrympleana ssp dalrympleana,candlebark gum,15-35,10-30,750,"Lo, Cl",AN,R,W,"Sp, S"
+Trees and Shrubs,Eucalyptus ,B,diversifolia ssp diversifolia,SA coastal white mallee,2-10,2-8,350,"Sa, Lo, Li",ANC,M,Cr,"W, Sp"
+Trees and Shrubs,Eucalyptus ,B,dumosa,white mallee,4-8,4-5,300,"Lo, Cl, Li",ANC,R,Cr,"W,Sp,S"
+Trees and Shrubs,Eucalyptus ,B,fasciculosa,pink gum,5-18,5-12,450,"Sa, Lo, Cl",ANC,M,Cr,"S, A"
+Trees and Shrubs,Eucalyptus ,B,globulus,Tasmanian blue gum,15-50,10-20,700,"Sa, Lo, Cl",AN/C,R,W,"W, Sp"
+Trees and Shrubs,Eucalyptus ,B,goniocalyx ssp. goniocalyx,long-leaved box,8-20,6-15,500,"Sa, Lo, Cl",AN/C,M,W,S
+Trees and Shrubs,Eucalyptus ,B,gracilis ,yorrell,3-9,3-8,200,"Sa, Lo, Li",ANC,M,W,"A,W,Sp"
+Trees and Shrubs,Eucalyptus ,B,incrassata,ridge-fruited mallee,3-7,3-6,350,"Sa, Lo",ANC,M,Cr,"Sp, S"
+Trees and Shrubs,Eucalyptus ,B,largiflorens,river box,6-20,6-15,350,"Lo,Cl",ANC,R,W,"Sp,S"
+Trees and Shrubs,Eucalyptus ,B,leptophylla,narrow-leaved red mallee,2-6,3-8,200,"Sa,Lo,Li",ANC,R,W,"A,W,Sp"
+Trees and Shrubs,Eucalyptus ,B,leucoxylon ssp leucoxylon,S.A. blue gum,8-30,8-25,500,"Sa,Lo, Cl",ANC,R,"Cr,Pk,R","A, W"
+Trees and Shrubs,Eucalyptus ,B,leucoxylon ssp megalocarpa,large-fruited SA.blue gum,6-12,6-10,400,"Sa,Lo,Cl,Li",ANC,R,"R,Pk,Cr","A,W,Sp"
+Trees and Shrubs,Eucalyptus ,B,leucoxylon ssp pruinosa,inland blue gum,6-20,3-12,400,"Sa,Lo, Cl",ANC,M,W,S
+Trees and Shrubs,Eucalyptus ,B,leucoxylon ssp stephaniae,scrubby blue gum,4-15,2-10,450,"Sa,Lo,Cl,Li",ANC,R,"Pk,Cr","A,W,Sp"
+Trees and Shrubs,Eucalyptus ,B,melliodora,yellow box,20-35,20-30,400,"Lo, Cl",ANC,M,Cr,"Sp,S,A"
+Trees and Shrubs,Eucalyptus ,B,microcarpa,grey box,6-20,8-20,500,"Lo, Cl, Li",ANC,R,Cr,"S, W"
+Trees and Shrubs,Eucalyptus ,B,obliqua,messmate stringybark,15-40,12-25,800,"Lo, Cl",AN,M,W,S
+Trees and Shrubs,Eucalyptus ,B,odorata,peppermint box,7-15,6-12,350,"Sa, Lo, Cl",ANC,R,Cr,F
+Trees and Shrubs,Eucalyptus ,B,oleosa ssp oleosa,red mallee,3-12,3-12,300,"Sa, Lo, Li",ANC,R,W,"W, Sp"
+Trees and Shrubs,Eucalyptus ,B,ovata var. ovata,swamp gum,6-20,5-15,650,"Sa, Lo, Cl",ANC,R,W,"A, W"
+Trees and Shrubs,Eucalyptus ,B,perriniana,spinning gum,4-10,4-8,650,"Sa, Lo, Cl",AN/C,R,W,S
+Trees and Shrubs,Eucalyptus ,B,phenax ssp phenax,white mallee,3-7,3-5,300,"Sa,Lo,Cl,Li",ANC,R,Cr,"S, A"
+Trees and Shrubs,Eucalyptus ,B,polyanthemos,red box,10-25,5-15,500,"Sa,Lo,Cl",AN,R,Cr,"Sp,S"
+Trees and Shrubs,Eucalyptus ,B,polybractea,blue mallee,4-10,4-8,400,"Sa,Lo,Cl",ANC,M,Cr,Sp
+Trees and Shrubs,Eucalyptus ,B,porosa,mallee box,5-14,5-12,300,"Sa,Lo,Cl,Li",ANC,M,W,Sp
+Trees and Shrubs,Eucalyptus ,B,sideroxylon ssp. sideroxylon,red ironbark,10-30,8-15,500,"Lo, Cl",ANC,R,"Cr,Pk","A, W"
+Trees and Shrubs,Eucalyptus ,B,socialis ssp socialis,red mallee,4-8,4-8,250,"Sa, Lo, Li",ANC,R,Cr,"Sp, S"
+Trees and Shrubs,Eucalyptus ,B,viminalis ssp cygnetensis,rough-barked manna gum,6-20,8-20,550,"Sa, Lo, Cl",ANC,M,W,"S, A"
+Trees and Shrubs,Eucalyptus ,B,viminalis ssp viminalis,manna gum,15-40,12-30,650,"Sa,Lo, Cl",AN,R,W,"Sp, S,A"
+Trees and Shrubs,Eucalyptus ,B,viridis,green mallee,4-8,3-5,250,"Sa,,Lo,Cl,Li",ANC,M,W,S
+Trees and Shrubs,Glischrocaryon,G,behrii,golden pennants,0.2-1,0.3-1,300,"Sa,Lo,Cl",ANC,M,Y,"Sp,S"
+Trees and Shrubs,Goodenia,G,amplexans,clasping goodenia,0.5-1.2,0.5-1,400,"Sa,Lo,Cl",ANC,M,Y,"Sp,S"
+Trees and Shrubs,Goodenia,G,ovata ,hop goodenia,1-2.5,1-3,450,"Sa, Lo, Cl",AN/C,M,Y,"Sp, S"
+Trees and Shrubs,Grevillea,G,huegelii,comb grevillea,0.5-2.5,1.5-3,300,"Sa, Lo",AN/C,M,Bu/R,Sp
+Trees and Shrubs,Grevillea,G,ilicifolia ssp ilicifolia,holly grevillea,0.1-2,1-3,400,"Sa, Lo, Cl",ANC,M,"R, G","W,Sp,S"
+Trees and Shrubs,Grevillea,G,pterosperma,desert grevillea,2-3,2-4,250,"Sa,Lo",ANC,R,Cr,"Sp,S"
+Trees and Shrubs,Hakea,B,mitchellii syn H. muelleriana,desert hakea,1-4,1-3,350,"Sa,Lo,Cl,Li",ANC,R,W,S
+Trees and Shrubs,Hakea,B,nodosa,yellow hakea,1-3,2-4,600,"Lo, Cl",AN/C,M,Y,"A, W"
+Trees and Shrubs,Hakea,B,rostrata,beaked hakea,1-4,1-3,400,"Sa,Lo,Cl",ANC,M,W,"W, Sp"
+Trees and Shrubs,Hakea,B,rugosa,wrinkled hakea,0.5-2.5,1-2,450,"Sa, Lo, Cl",AN/C,M,W,"W, Sp"
+Trees and Shrubs,Hardenbergia,B,violacea Shrub form,native lilac,1.5-2,2-3,500,"Sa, Lo, Cl",ANC,M,Pu,"W, Sp"
+Trees and Shrubs,Hardenbergia,B,violacea alba ,white native lilac,1.5-2,2-3,500,"Sa, Lo, Cl",ANC,M,W,"W,Sp"
+Trees and Shrubs,Hardenbergia,B,violacea rosea,pink native lilac,1.5-2,2-3,500,"Sa, Lo, Cl",ANC,M,Pk,"W, Sp"
+Trees and Shrubs,Hibbertia,G,empetrifolia,scrambling guinea flower,0.5-1,1-2,600,"Sa, Lo, Cl",AN,M,Y,Sp
+Trees and Shrubs,Hibbertia,G,sericea,silky guinea flower,0.2-0.4,0.2-0.5,350,"Sa, Lo",AN,M,Y,Sp
+Trees and Shrubs,Hybanthus,G,floribundus,shrub violet,0.5-1.5,0.5-1.5,450,"Lo,Cl",AN,M,Pu,"A,W,Sp"
+Trees and Shrubs,Isopogon,B,ceratophyllus,wild Irishman,0.5-1,0.5-1,500,"Sa, Lo",AN/C,M,Y,Sp
+Trees and Shrubs,Lasiopetalum,B,baueri,slender velvet bush,05-1.5,1-2,400,"Sa, Lo, Li",ANC,R,"Pk,W","Sp, S"
+Trees and Shrubs,Lasiopetalum,B,behrii,pink velvet bush,0.5-1.5,1-2,400,"Sa, Lo, Li",ANC,R,"Pk,W","W, Sp"
+Trees and Shrubs,Lasiopetalum,B,schulzenii,drooping velvet bush,0.5-1.5,0.5-2,400,"Sa, Lo, Li",ANC,M,W,"Sp, S"
+Trees and Shrubs,Leptospermum,B,continentale ,prickly tea tree,1.5-4,2-4,500,"Sa, Lo, Cl",AN,R,W,"Sp, S"
+Trees and Shrubs,Leptospermum,B,coriaceum,green tea tree,1-3,2-4,350,"Sa, Lo, Li",ANC,R,W,"W, Sp"
+Trees and Shrubs,Leptospermum,B,lanigerum,woolly tea tree,2-5,1.5-4,550,"Lo, Cl",AN/C,R,Cr,"Sp, S"
+Trees and Shrubs,Leptospermum,B,myrsinoides,silky tea tree,1-4,1-4,450,"Sa, Lo, Cl",AN,R,W,Sp
+Trees and Shrubs,Leucophyta,B,brownii,cushion bush,0.2-1,1-2,400,"Sa, Lo, Li",ANC,M,"Y,Br","Sp, S"
+Trees and Shrubs,Leucopogon,G,parviflorus,coast beard heath,2-4,1-3,500,"Sa,Lo",ANC,S,W,Sp
+Trees and Shrubs,Linum ,B,marginale,native flax,0.3-0.6,0.2-0.4,500,"Sa,Lo,Cl",ANC,R,B,"W,Sp"
+Trees and Shrubs,Maireana,B,pyramidata,shrubby bluebush,0.5-1,0.5-1,300,"Sa,Lo,Cl/Lo",ANC,R,I,F
+Trees and Shrubs,Maireana,B,sedifolia,pearl bluebush,0.6-1.5,0.6-2,350,"Sa,Lo,Cl",ANC,R,Y/Pk,"W,Sp"
+Trees and Shrubs,Melaleuca,B,acuminata ssp acuminata,mallee honey myrtle,2-4,2,300,"Sa, Lo, Li",ANC,M,Cr,Sp
+Trees and Shrubs,Melaleuca,B,armillaris,bracelet honey myrtle,3-8,3-5,450,"Sa, Lo, Cl",ANC,M,Cr,Sp
+Trees and Shrubs,Melaleuca,B,brevifolia,white-flowered paperbark,2-4,2-4,400,"Sa,Lo,Cl,Li",ANC,R,W,"Sp, S"
+Trees and Shrubs,Melaleuca,B,decussata,cross-leaved honey myrtle,2-5,2-4,450,"Lo, Cl, Li",ANC,M,Pu,"Sp, S"
+Trees and Shrubs,Melaleuca,B,gibbosa,slender honey myrtle,2-3,2-3,400,"Sa,Lo,Cl,Li",ANC,M,Pu,S
+Trees and Shrubs,Melaleuca,B,halmaturorum,SA swamp paperbark,2-6,2-6,350,"Sa,Lo,Cl,Li",ANC,M,W,"Sp, S"
+Trees and Shrubs,Melaleuca,B,lanceolata,dryland tea tree,3-8,3-5,250,"Sa,Lo,Cl,Li",ANC,R,Cr,"Sp, S"
+Trees and Shrubs,Melaleuca,B,squamea,swamp honey myrtle,1-3,1-3,500,"Sa,Lo,Cl",AN,R,"Pk,Pu",Sp
+Trees and Shrubs,Melaleuca,B,squarrosa,scented paperbark,2-5,2-4,550,"Sa, Lo,Cl",ANC,R,Cr,"Sp, S"
+Trees and Shrubs,Melaleuca,B,wilsonii,Wilson’s honey myrtle,1-2,1-3,400,"Sa,Lo,Cl,Li",ANC,M,Pk/Pu,Sp
+Trees and Shrubs,Micromyrtus,G,ciliata,fringed heath myrtle,0.5-1,0.5-2,500,"Sa, Lo",AN/C,R,W/Pk,"Sp, S"
+Trees and Shrubs,Myoporum,G,floribundum,slender myoporum,2-3,2-3,500,"Sa, Lo, Cl",AN/C,R,W,"Sp, S"
+Trees and Shrubs,Myoporum,G,montanum,water bush,1-2,1.5-2.5,400,"Sa,Lo,Cl",ANC,R,W,Sp
+Trees and Shrubs,Myoporum,B,petiolatum   ,sticky boobialla,1-2.5,1-3,350,"Sa,Lo,Cl",ANC,R,W,"W,Sp,S"
+Trees and Shrubs,Myoporum,B,platycarpum,false sandalwood,3-6,2-4,300,"Sa, Lo, Li",ANC,M,W,Sp
+Trees and Shrubs,Olearia,B,axillaris,coast daisy-bush,2-3,1.5-2,400,"Sa,Lo,Cl,Li",ANC,R,W,Sp
+Trees and Shrubs,Olearia,B,pannosa,silver-leaved daisy,1-2,1-2,400,"Sa, Lo, Cl",ANC,R,W,Sp
+Trees and Shrubs,Olearia,G,phlogopappa,Otway daisy-bush,1-2,1-2,550,"Sa, Lo, Cl",AN,M,"W,Pk,Pu",Sp
+Trees and Shrubs,Olearia,B,pimeleoides,showy daisy-bush,0.5-1,0.5-1,400,"Sa, Lo, Li",ANC,M,W,"W, Sp"
+Trees and Shrubs,Olearia,B,ramulosa,twiggy daisy-bush,1-1.5,1-2,500,"Sa, Lo, Cl",AN/C,M,"W,Pk","Sp, S"
+Trees and Shrubs,Philotheca Syn:Eriostemon,G,angustifolia ssp angustifolia,narrow leaved wax flower,1-1.5,1-1.5,450,"Sa,Lo,Cl",AN/C,R,W,Sp
+Trees and Shrubs,Philotheca Syn:Eriostemon,G,myoporoides ,native daphne,1-2,1-2,550,"Lo,Cl",AN/C,R,W,"W,Sp"
+Trees and Shrubs,Pimelea,G,glauca,smooth rice flower,0.1-1,0.3-1.5,400,"Sa,Lo",ANC,M,W,"W,Sp,S"
+Trees and Shrubs,Platylobium,B,obtusangulum,common flat pea,0.3-1,0.5-1,550,"Sa, Lo, Cl",AN,M,O&R,"Sp,S"
+Trees and Shrubs,Prostanthera,G,aspalathoides,scarlet mintbush,0.5,0.5,400,"Sa, Lo",ANC,M,"R,Y","Sp, S"
+Trees and Shrubs,Prostanthera,G,serpyllifolia ssp microphylla,small-leaved mintbush,0.5,0.5,350,"Sa, Lo",ANC,M,R,"W, Sp"
+Trees and Shrubs,Pultenaea,B,daphnoides,long-leaved bush-pea,1-2,0.5-1,550,"Sa, Lo, Cl",AN/C,M,Y/R,Sp
+Trees and Shrubs,Pultenaea,B,largiflorens,twiggy bush-pea,1-1.5,0.5-1.5,550,"Sa, Lo, Cl",AN/C,M,Y/R,"W,Sp"
+Trees and Shrubs,Rhagodia,B,candolleana,seaberry saltbush,1-1.5,1-1.5,350,"Sa,Lo,Cl,Li",ANC,M,I,"W,Sp"
+Trees and Shrubs,Rhagodia,B,crassifolia,fleshy saltbush,1.5,1.5,350,"Sa,Lo,Cl",ANC,R,I,Sp
+Trees and Shrubs,Rhagodia,B,parabolica,fragrant saltbush,1-2,1-2,350,"Sa,Lo,Cl",ANC,R,I,"W,Sp"
+Trees and Shrubs,Senna,B,artemisioides ssp artemisioides,silver cassia,1-2.5,1-2.5,250,"Sa, Lo, Li",ANC,M,Y,F
+Trees and Shrubs,Solanum ,B,laciniatum,large kangaroo apple,1-3,1-3,500,"Sa,Lo,Cl",AN,M,B/Pu,"Sp,S"
+Trees and Shrubs,Syzygium,G,smithii,lilly pilly,5-15,5-8,550,"Sa,Lo,Cl",ANC,M,W,Sp
+Trees and Shrubs,Tetratheca,G,ciliata,pink bells,0.5,0.5,500,"Sa, Lo",AN,M,"Pk, W",Sp
+Trees and Shrubs,Tetratheca,G,pilosa,pink-eyed susan,0.2-0.5,0.2-0.5,550,"Sa, Lo,Cl",AN,M,Pk,"Sp, S"
+Trees and Shrubs,Tetratheca,G,thymifolia,black eyed susan,0.5,0.5,500,"Sa,Lo,Cl",AN,M,Pk,"W,Sp"
+Trees and Shrubs,Thomasia,B,petalocalyx,paper flower,0.6,0.6-1,450,"Sa, Lo",ANC,M,Pu/Pk,"Sp, S"
+Trees and Shrubs,Thryptomene,G,calycina,Grampians thryptomene,1-2,1-2,600,"Sa, Lo, Cl",AN,M,W/Pk,"W, Sp"
+Trees and Shrubs,Viminaria,B,juncea,golden spray,4-6,2-4,650,"Sa,Lo,Cl",AN/C,M,Y,"S,A"
+Trees and Shrubs,Westringia ,G,eremicola,slender westringia,1-1.5,1-1.5,250,"Sa,Lo,Cl,Li",ANC,R,Pu,F
+Trees and Shrubs,Westringia ,G,glabra,violet westringia,1-1.5,1-1.5,550,"Lo, Cl",AN/C,M,B/Pu,Sp
+Groundcover,Ajuga,G,australis,austral bugle,0.3,0.5-1,400,"Sa,Lo,Cl",ANC,R,"Pk,Pu","Sp,S"
+Groundcover,Atriplex,B,semibaccata,berry saltbush,0.1-0.3,1-3,300,"Sa,Lo,Cl",ANC,R,I,F
+Groundcover,Atriplex,B,suberecta,lagoon saltbush,0.1-0.6,1-2,300,"Sa,Lo,Cl",ANC,R,I,F
+Groundcover,Brachyscome ,G,multifida var. dilatata,cut-leaf daisy,0.3,0.5-1,400,"Sa, Lo, Cl",AN/C,R,Pu,All year
+Groundcover,Carpobrotus,B,rossii,karkalla,0.1,2-3,300,"Sa,Lo,Cl",ANC,R,Pk,"W,Sp,S"
+Groundcover,Chrysocephalum ,G,baxteri,fringed everlasting,0.2-0.4,0.3-0.6,450,"Sa, Lo, Cl",ANC,M,W,F
+Groundcover,Goodenia,G,blackiana,goodenia,0.1-0.2,0.2-0.5,500,"Sa,Lo,Cl",ANC,M,Y,"`W,Sp"
+Groundcover,Goodenia,G,varia,sticky goodenia,0.1-0.6,0.5-1.5,350,"Sa,Lo,Cl,Li",ANC,M,Y,"W,Sp"
+Groundcover,Helichrysum,G,scorpioides,button everlasting,0.2-0.5,0.2-0.3,400,"Sa,Lo,Cl",AN/C,R,Y,"W,Sp"
+Groundcover,Hibbertia,G,obtusifolia,showy guinea flower,0.1,0.2-1,500,"Sa, Lo",AN,M,Y,"Sp, S"
+Groundcover,Hibbertia,G,riparia,erect guinea flower,0.1-0.5,0.3-0.8,400,"Sa, Lo, Cl",AN,M,Y,Sp
+Groundcover,Kennedia,B,prostrata,running postman,0.1,1.5-4,450,"Sa,Lo,Cl",ANC,M,"R,Y","W,Sp"
+Groundcover,Kunzea,G,pomifera,muntries,0.2,2-4,500,"Sa, Lo, Li",ANC,M,Cr,"W, Sp"
+Groundcover,Pelargonium,G,australe Low Form,austral storksbill,0.3-0.7,0.5-1.5,400,"Sa,Lo,Cl",AN/C,M,Pk,"Sp,S,A"
+Groundcover,Pratia,G,pedunculata,trailing pratia,0.1,0.4-2,500,"Sa, Lo, Cl",ANC,M,"B, W","Sp, S"
+Groundcover,Pultenaea,G,pedunculata,matted bush-pea,0.1,1-3,500,"Sa,Lo,Cl",AN/C,M,"O,Y","W,Sp"
+Groundcover,Scaevola,G,albida,small fruited fan flower,0.3-0.6,0.6-1,500,"Sa,Lo,Cl",AN/C,R,W,F
+Groundcover,Scaevola,G,calendulacea,dune fan flower,0.4,1,500,"Sa,Lo",ANC,M,B,F
+Groundcover,Scaevola,G,hookeri,alpine fan flower,0.1-0.2,1-1.5,500,"Lo,Cl",AN,M,W,F
+Groundcover,Viola,G,hederacea,native violet,0.2,1-4,600,"Lo,Cl",ANC,R,W&Pu,F
+Climbers,Hardenbergia,B,violacea Climbing form,native lilac,1.5-2,2-3,500,"Sa, Lo, Cl",ANC,M,Pu,"W, Sp"
+Climbers,Muehlenbeckia,B,adpressa,climbing lignum,3-4,3-4,500,"Sa,Lo",ANC,M,G,Sp
+Grasses,Aristida ,B,behriana,brush wiregrass,0.15-.3,0.2-0.3,300,Sa Lo Cl,ANC,R,Cr,"Sp,A"
+Grasses,Austrodanthonia  syn. Danthonia,B,caespitosa,common wallaby-grass,0.2-0.8,0.1-0.3,300,"Sa, Lo, Cl",ANC,R,Cr,"Sp, S"
+Grasses,Austrodanthonia  syn. Danthonia,B,eriantha,hill wallaby-grass,0.2-0.7,0.4,300,"Sa,Lo,Cl",ANC,R,Cr,"W,Sp,S"
+Grasses,Austrodanthonia  syn. Danthonia,B,fulva syn. A. linkii,wallaby-grass,0.4-0.7,0.5,500,"Sa,Lo,Cl",ANC,R,Cr,"Sp,S"
+Grasses,Austrodanthonia  syn. Danthonia,B,geniculata,kneed wallaby-grass,0.1-0.5,0.1-0.3,400,"Sa,Lo,Cl",ANC,R,Cr,"Sp,S,A"
+Grasses,Austrodanthonia  syn. Danthonia,B,pilosa,velvet wallaby-grass,0.2-0.9,0.4,400,"Sa,Lo,Cl",ANC,R,Cr,"Sp,S"
+Grasses,Austrostipa  syn. Stipa,B,elegantissima,elegant spear-grass,1,1,350,"Sa, Lo, Cl",ANC,R,G/Br,"W,Sp"
+Grasses,Austrostipa  syn. Stipa,B,nodosa,spear-grass,0.5-1,0.5-1,350,"Sa,Lo,Cl",ANC,R,G/Br,"W,Sp"
+Grasses,Bothriochloa,B,macra,red-leg grass,0.4-0.8,0.4-0.8,300,"Sa,Lo,Cl,Li",ANC,R,Br,F
+Grasses,Distichlis,B,distichophylla,emu-grass,0.4,1-2,350,"Sa,Lo,Cl",ANC,R,Br,"Sp,S"
+Grasses,Elymus,B,scaber var scaber,common wheat-grass,0.2-1,0.3-0.5,300,"Sa,Lo,Cl",ANC,R,Cr,"W,Sp"
+Grasses,Enneapogon,B,nigricans,bottle washers,0.2-0.5,0.5,350,"Sa, Lo,Cl",ANC,R,Br/Bl,"Sp,S"
+Grasses,Poa,B,labillardieri ,tussock grass ,0.3-1,0.3-0.7,400,"Sa, Lo, Cl",ANC,R,G/Cr,"Sp, S"
+Grasses,Poa,B,poiformis,blue tussock grass,0.6-1.2,0.5-1.5,350,"Sa,Lo,Cl",ANC,R,Cr,"Sp,Su"
+Grasses,Poa,B,sieberiana,grey tussock grass,0.3-0.8,0.3-0.8,500,"Sa, Lo, Cl",ANC,M,G/Cr,"Sp, S"
+Grasses,Triodia,B,scariosa,porcupine grass,0.6,1,300,"Sa,Lo",ANC,M,G/Cr,"W,Sp"
+Other Strap-leaved Plants,Dianella,B,tasmanica,Tasman flax-lily,0.6-1.7,0.5-2,650,"Sa,Lo,Cl",AN,M,B,"Sp,S"
+Other Strap-leaved Plants,Diplarrena,B,moraea,butterfly flag,0.3-0.6,0.5-1,550,"Sa,Lo,Cl",ANC,R,W,"Sp,S"
+Other Strap-leaved Plants,Lomandra,B,effusa,scented mat-rush,0.2-0.5,0.2-0.5,400,"Sa, Lo",ANC,M,Cr/Y,"W,Sp"
+Other Strap-leaved Plants,Lomandra,B,longifolia,spiny headed mat-rush,0.5-1,0.5-1,500,"Sa, Lo, Cl",ANC,R,Cr/Y,"Sp, S"
+Other Strap-leaved Plants,Lomandra,B,micrantha ssp micrantha,small-flowered mat-rush,0.2-0.8,0.2-0.8,500,"Sa, Lo, Cl",ANC,R,W,"A,W,Sp"
+Other Strap-leaved Plants,Orthrosanthus,B,multiflorus,morning iris,0.3-0.6,0.4-1,450,"Sa,Lo,Cl",ANC,M,B,Sp
+Other Strap-leaved Plants,Patersonia,B,occidentalis,long purple flag,0.5,0.5,500,"Lo, Cl",AN,M,Pu,Sp
+Other Strap-leaved Plants,Xanthorrhoea,B,australis,Austral grass tree,0.5-2,0.6-1,500,"Sa, Lo,Cl",ANC,R,W,"W,Sp,S"
+Bulbs and Lilies,Arthropodium ,B,strictum,vanilla lily,0.4,0.4,400,"Sa,Lo,Cl",ANC,M,P,Sp
+Bulbs and Lilies,Bulbine ,B,bulbosa,native leek,0.3,0.3,500,"Sa,Lo,Cl",ANC,M,Y,Sp
+Bulbs and Lilies,Burchardia,B,umbellata,milkmaids,0.3,0.2,500,"Sa,Lo,Cl",ANC,M,W,Sp
+Bulbs and Lilies,Calostemma,B,purpureum,purple bells,0.2-0.5,0.2,400,"Sa,Lo,Cl",ANC,M,"Pk, P",A
+Aquatic and Riparian Zone Plants,Centella,G,asiatica,pennywort,0.1-0.4,0.5-1,500,"Sa,Lo,Cl",ANC,S,I,Sp
+Aquatic and Riparian Zone Plants,Lobelia ,G,anceps  syn: alata,angled lobelia,0.1-0.3,0.3-2,500,"Lo,Cl",AN/C,M,P,"Sp,S"
+Aquatic and Riparian Zone Plants,Mazus ,G,pumilio,swamp mazus,0.1,1,600,"Sa,Lo,Cl",ANC,M,P,"Sp,S"
+Aquatic and Riparian Zone Plants,Mentha ,G,australis,river mint,0.3-0.8,0.3-1.5,600,"Sa,Lo,Cl",AN,M,W,Sp
+Aquatic and Riparian Zone Plants,Mimulus ,G,repens,creeping monkey flower,0.2,1-2,500,"Sa,Lo,Cl",ANC,M,P,"Sp,S"
+Rushes and Sedges,Carex,B,fascicularis,tassel sedge,1,1,AQU,"Sa,Lo,Cl",ANC,R,G,"Sp,S"
+Rushes and Sedges,Carex,B,gunniana,mountain sedge,0.2-0.7,0.5-1,AQU,"Sa,Lo,Cl",ANC,M,Br,"Sp,S"
+Rushes and Sedges,Eleocharis,B,acuta,common spike rush,0.3-0.9,2-3,AQU,"Sa,Lo,Cl",AN/C,M,Br,"Sp,S"
+Rushes and Sedges,Gahnia,B,filum,chaffy saw sedge,1-1.5,1-1.5,550,"Sa,Lo",AN/C,R,B,F
+Rushes and Sedges,Isolepis ,B,inundata,swamp club rush,0.5,0.5-1,AQU,"Sa,Lo,Cl",ANC,R,Br,Sp
+Rushes and Sedges,Schoenoplectus ,B,validus,river club-rush,1.5-2.5,1.5-3,AQU,"Sa,Lo,Cl",ANC,R,B,"S,A"

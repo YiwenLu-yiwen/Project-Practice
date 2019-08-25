@@ -22,3 +22,11 @@ string = 'Sa,Lo,Cl/Lo'
 string.replace('/',',').split(',)
 # result = ['Sa', 'Lo', 'Cl', 'Lo']
 ```
+Drop NA in dataframe
+```python
+df = df.dropna() #dropna
+```
+Reset dataframe index
+```python
+df = df.reset_index(drop = True)
+```
