@@ -1,3 +1,3 @@
-# IE Funny
+# Project Funny
 
-For recording what we did in IE
+For recording what we did in this tiny project
