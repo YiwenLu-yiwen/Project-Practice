@@ -19,7 +19,6 @@ Drop NA in dataframe
 ```python
 df = df.dropna() #dropna
 ```
-
 Reset dataframe index
 ```python
 df = df.reset_index(drop = True)
@@ -28,6 +27,10 @@ Add row in dataframe
 ```python
 df2 = pd.dataframe(columns:['1', '2']) ## create dataframe with no value
 df1.append(df2, ignore_index=False)
+```
+Sort dataframe values
+```python
+dfr.sort_values(by=['Total Survive Percent'], ascending=False) # ascending False decreasing, True increasing
 ```
 
 
