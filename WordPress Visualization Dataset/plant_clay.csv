@@ -1,0 +1,6 @@
+Soil texture,plantid
+string,number
+Clay,193
+Limestone,69
+Loam,241
+Sand,209
