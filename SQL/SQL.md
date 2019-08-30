@@ -19,3 +19,12 @@ INSERT values in TABLE
 INSERT INTO XXX VALUES(); #XXX IS TABLE
 INSERT INTO XXX VALUES(), (), (); #XXX IS TABLE insert multiple rows
 ```
+
+Remane columns in MYSQL & SQL:
+```SQL
+ALTER TABLE FLOWER_COLOR
+CHANGE description color_description VARCHAR(255); --- don't need ""
+
+ALTER TABLE FLOWER_COLOR
+RENAME COLUMN description TO color_description; ---SQL commond
+```
