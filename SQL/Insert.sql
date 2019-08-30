@@ -1,4 +1,4 @@
-USE Plantsmartvictoria;
+USE vicsmart_wp647;
 
 INSERT INTO FROST VALUES ('M', 'Moderately sensitive to frost'),
 ('R', 'Resistant to most frosts'),('S', 'Sensitive to frost');
