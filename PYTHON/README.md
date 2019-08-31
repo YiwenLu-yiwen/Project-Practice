@@ -1,3 +1,4 @@
 # Project Funny
 
-For recording what we did in this tiny project
+All data is for firebase and test is this csv wrangling
+cleaned data is for sql
