@@ -15,10 +15,23 @@ Get each row and index:
         ### get each row and index 
 ```
 
-Drop NA in dataframe
+Value in dataframe
+```python
+df.loc[df['x']=='x']['x'] = y # change values
+df.iloc[indx]['init'] # get certain value
+```
+Drop in dataframe
 ```python
 df = df.dropna() #dropna
+df = df.drop_duplicates() # drop duplicate
+df = df.drop([1]) # drop row index
+df = df.drop(columns = ['x']) # drop columns
 ```
+remove duplicate
+```python
+df.drop_duplicates()
+```
+
 Reset dataframe index
 ```python
 df = df.reset_index(drop = True)
@@ -32,7 +45,6 @@ Sort dataframe values
 ```python
 dfr.sort_values(by=['Total Survive Percent'], ascending=False) # ascending False decreasing, True increasing
 ```
-
 
 
 
